@@ -1,0 +1,20 @@
+Harsh,1135,50000
+Dhriti,1808,33000
+Sathwika,1401,60000
+Sojjanya,0,90000
+Aviral,3541,4600
+Yash,7943,6100
+Shreejan,4524,34000
+Aarindam,8676,41000
+Aryan,0,52000
+Soham,7865,3500
+Abhinav,2345,48900
+Ameya,8654,0
+Aditi,3542,16000
+Tanya,8783,3522
+Siya,0,1340
+Sucheta,8341,43210
+Dhruv,3945,43000
+Ananya,6721,84200
+Aditya,0,3000
+Khushi, 6802,43000
